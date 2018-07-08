@@ -30,9 +30,10 @@ public class MainActivity extends AppCompatActivity {
     private TextView raintextview;
     private TextView firetextview;
     private TextView pumptextview;
+    //its a baad code
     private Button refreshbtn;
     private CardView card;
-
+    private String name;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
