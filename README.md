@@ -3,4 +3,7 @@ App developed using android studio to remotely control and monitor the IOT hardw
 Data is being fetched from Thingspeak cloud in the JSON format and using Volley ,Gson library data is parsed and shown to the user
 Cardview is also used so that when user click on the card pump can be ON/OFF/
 App also have a splash screen 
-![screenshot_2018-07-09-16-20-16-564_com example jatin `myapplication](https://user-images.githubusercontent.com/19595669/42463507-edf0368c-83c3-11e8-8127-ffde8b0b4b76.png)
+Screenshot of the App
+![screenshot_2018-07-09-16-20-16-564_com example jatin myapplication](https://user-images.githubusercontent.com/19595669/42464018-7595a7e2-83c5-11e8-804e-0ad095799bcc.png)
+![screenshot_2018-07-09-16-20-26-645_com example jatin myapplication](https://user-images.githubusercontent.com/19595669/42464043-85edfb12-83c5-11e8-9758-a0955231ea7b.png)
+![screenshot_2018-07-09-16-20-26-645_com example jatin myapplication 1](https://user-images.githubusercontent.com/19595669/42464067-921ab376-83c5-11e8-9cb1-4d12937073fa.png)
