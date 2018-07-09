@@ -119,8 +119,10 @@ public class MainActivity extends AppCompatActivity {
                         }
                     }
                 }, new Response.ErrorListener() {
+
                     @Override
                     public void onErrorResponse(VolleyError error) {
+                        dialog.dismiss();
                         //if error occured while fetching data from thingspeak server then show toast
                         Toast.makeText(MainActivity.this, "Error has occured", Toast.LENGTH_LONG).show();
                     }
